@@ -1,4 +1,4 @@
-# TUGAS PRAKTIKUM PBK PERTEMUAN 2
+# TUGAS PRAKTIKUM PBK PERTEMUAN 3
 
 ![preview img](/screenshot.png)
 
